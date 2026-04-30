@@ -1,0 +1,13 @@
+# Minimal runtime dependencies for EPRFormer.
+#
+# Install PyTorch according to your CUDA/CPU environment first:
+#   https://pytorch.org/get-started/locally/
+#
+# Then install the remaining dependencies:
+#   pip install -r requirements.txt
+
+numpy>=1.24
+pillow>=10.0
+timm>=1.0.0
+tqdm>=4.66
+opencv-python>=4.8
